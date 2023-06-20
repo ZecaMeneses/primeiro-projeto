@@ -1,0 +1,19 @@
+#titulo { color: maroon;
+       font-size: 60px;
+       text-shadow: 10px 5px 20px #0c0808;
+}
+
+#paragrafo { color: blue;
+             font-size: 25px;
+             font: weight 100;
+             font-style: italic;
+             word-spacing: 15px;
+             text-shadow: 10px 10px 10px 10px #512f8f;
+} 
+
+#botao { background: rgb(92, 92, 153);
+}
+
+#botao2 { background: rgb(194, 141, 62);
+
+} /* O text-shadow é para criar sonbras no Texto.*/ 
